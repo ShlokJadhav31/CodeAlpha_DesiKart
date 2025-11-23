@@ -1,4 +1,4 @@
-# DesiKart 🇮🇳
+# DesiKart
 
 ## A full-stack E-Commerce application built with the MERN Stack (MongoDB, Express, React, Node.js), featuring product details, authentication, and a shopping cart.
 
