@@ -1,8 +1,8 @@
-##DesiKart 🇮🇳
+# DesiKart 🇮🇳
 
-#A full-stack E-Commerce application built with the MERN Stack (MongoDB, Express, React, Node.js), featuring product details, authentication, and a shopping cart.
+## A full-stack E-Commerce application built with the MERN Stack (MongoDB, Express, React, Node.js), featuring product details, authentication, and a shopping cart.
 
-####🚀 Tech Stack
+### 🚀 Tech Stack
 
 Frontend: React, Vite, Tailwind CSS.
 
@@ -10,7 +10,7 @@ Backend: Node.js, Express.js, MongoDB.
 
 Auth: JWT & Bcrypt.
 
-####⚡ Quick Start
+### ⚡ Quick Start
 
 1. Backend Setup
 
@@ -27,7 +27,7 @@ cd frontend
 npm install
 npm run dev
 
-####📂 Project Structure
+### 📂 Project Structure
 
 backend/ - API routes and Database models.
 
